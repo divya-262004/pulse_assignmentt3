@@ -1,0 +1,10 @@
+[
+    {
+        "module": "Account Settings",
+        "Description": "Tools and features related to managing account preferences and privacy.",
+        "Submodules": {
+            "Change Password": "Steps to update your account password securely.",
+            "Delete Account": "Explains how users can permanently delete their account."
+        }
+    }
+]
